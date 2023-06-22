@@ -2,4 +2,5 @@ Rainbow
 VIBGYOUR
 
 
+RGB
 Red Green Blue
