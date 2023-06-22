@@ -6,3 +6,4 @@ RGB
 Red Green Blue
 
 staged
+unstaged
