@@ -4,3 +4,5 @@ VIBGYOUR
 
 RGB
 Red Green Blue
+
+staged
